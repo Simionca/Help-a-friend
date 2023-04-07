@@ -1,0 +1,702 @@
+<tbody>
+    <tr id="5181" class="odd"><td class="  report_expandable">easybox Galbenelelor</td><td>-</td><td>Str. Galbenelelor, Nr. 4 307220<br>Giroc, Timis</td><td>4735</td><td>45.715060<br>21.263890</td><td></td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="5179" class="even"><td class="  report_expandable">easybox Primaria Varias</td><td>-</td><td>Str. 4 Natiuni (intersectie cu Aleea Strandului Olimpic) 307455<br>Varias, Timis</td><td>4734</td><td>46.008940<br>20.959520</td><td></td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="5118" class="odd"><td class="  report_expandable">easybox Adora Forest</td><td>Modern Expo V2</td><td>Str. Constructorilor, Nr. 38 300571<br>Timisoara, Timis</td><td>4694</td><td>45.778897<br>21.247928</td><td>easybox Adora Forest</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>15</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="5000" class="even"><td class="  report_expandable">easybox Green Scoala Giarmata</td><td>Modern Expo Green</td><td>DC61 307210<br>Giarmata, Timis</td><td>4664</td><td>45.840735<br>21.316619</td><td>easybox Green Scoala Giarmata</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>5</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4999" class="odd"><td class="  report_expandable">easybox Lunei</td><td>SmartID V3</td><td>Str. Lunei, Nr. 20 300108<br>Timisoara, Timis</td><td>4663</td><td>45.753560<br>21.256780</td><td>easybox Lunei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>18</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4998" class="even"><td class="  report_expandable">easybox Sud Plaza Timisoara</td><td>Keba</td><td>Str. Maresal Constantin Prezan, Nr. 23 300744<br>Timisoara, Timis</td><td>4662</td><td>45.730150<br>21.247290</td><td>easybox Sud Plaza Timisoara</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>14</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4976" class="odd"><td class="  report_expandable">easybox Primaria Biled</td><td>SmartID V3</td><td>Str. Principala (DN6) 307060<br>Biled, Timis</td><td>4640</td><td>45.886250<br>20.960267</td><td>easybox Primaria Biled</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>12</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4975" class="even"><td class="  report_expandable">easybox Caminul Cultural Carpinis</td><td>SmartID V3</td><td>Str. Principala (DN 59A) 307090<br>Carpinis, Timis</td><td>4639</td><td>45.787986<br>20.904711</td><td>easybox Caminul Cultural Carpinis</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>21</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4974" class="odd"><td class="  report_expandable">easybox Primaria Fibis</td><td>SmartID V3</td><td>Str. Principala (DJ691) 307272<br>Fibis, Timis</td><td>4638</td><td>45.973465<br>21.422306</td><td>easybox Primaria Fibis</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>3</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4948" class="even"><td class="  report_expandable">easybox Labirint</td><td>Keba</td><td>Str. Labirint, Nr. 9 300654<br>Timisoara, Timis</td><td>4613</td><td>45.765572<br>21.214757</td><td>easybox Labirint</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>9</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4887" class="odd"><td class="  report_expandable">easybox Eliza 1</td><td>-</td><td>Str. Grigore Alexandrescu, FN 300369<br>Timisoara, Timis</td><td>4604</td><td>45.771210<br>21.197040</td><td>easybox Eliza 1</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4886" class="even"><td class="  report_expandable">easybox Salia Residence</td><td>-</td><td>Str. Albastrelelor, Nr. 6 300231<br>Timisoara, Timis</td><td>4603</td><td>45.753110<br>21.276690</td><td>easybox Salia Residence</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4885" class="odd"><td class="  report_expandable">easybox Green Ion Sarbu</td><td>Modern Expo Green</td><td>Str. Ion Sarbu, Nr. 9 300771<br>Timisoara, Timis</td><td>4602</td><td>45.730570<br>21.223080</td><td>easybox Ion Sarbu</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>12</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4882" class="even"><td class="  report_expandable">easybox Auner</td><td>Rovenma</td><td>Splaiul Tudor Vladimirescu, Nr. 29-30 300185<br>Timisoara, Timis</td><td>4598</td><td>45.745596<br>21.206273</td><td>easybox Auner</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>2</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4881" class="odd"><td class="  report_expandable">easybox Rivera</td><td>Modern Expo V2</td><td>Cal. Martirilor 1989, Nr. 41 (interior magazin) 300722<br>Timisoara, Timis</td><td>4597</td><td>45.731220<br>21.237620</td><td>easybox Rivera</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>7</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4823" class="even"><td class="  report_expandable">easybox Ardealului</td><td>Modern Expo V2</td><td>Str. Ardealului, Nr. 1C 300536<br>Timisoara, Timis</td><td>4567</td><td>45.728992<br>21.180549</td><td>easybox Ardealului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>20</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4822" class="odd"><td class="  report_expandable">easybox Virgil Birou</td><td>Modern Expo V2</td><td>Str. Virgil Birou, Nr. 11 300551<br>Timisoara, Timis</td><td>4566</td><td>45.747940<br>21.240710</td><td>easybox Virgil Birou</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>19</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4820" class="even"><td class="  report_expandable">easybox Trandafirilor 40</td><td>-</td><td>Str. Trandafurilor, Nr. 40 307221<br>Giroc, Timis</td><td>4564</td><td>45.698680<br>21.234350</td><td>easybox Trandafirilor 40</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4819" class="odd"><td class="  report_expandable">easybox Diana</td><td>-</td><td>Str. Diana, Nr. 8 300577<br>Timisoara, Timis</td><td>4563</td><td>45.745130<br>21.238130</td><td>easybox Diana</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4814" class="even"><td class="  report_expandable">easybox Eroilor de la Tisa</td><td>SmartID V3</td><td>Str. Eroilor de la Tisa, Nr. 93 300554<br>Timisoara, Timis</td><td>4562</td><td>45.750584<br>21.251212</td><td>easybox Eroilor de la Tisa</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>19</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4798" class="odd"><td class="  report_expandable">easybox Toledo</td><td>Keba</td><td>Str. Toledo, nr. 1 307160<br>Dumbravita, Timis</td><td>4548</td><td>45.798955<br>21.209803</td><td>easybox Toledo</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>4</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4785" class="even"><td class="  report_expandable">easybox Green Equilibrium After School</td><td>Modern Expo Green</td><td>Str. Simfoniei, Nr. 68 307160<br>Dumbravita, Timis</td><td>4538</td><td>45.806190<br>21.219540</td><td>easybox Simfoniei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>28</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4734" class="odd"><td class="  report_expandable">easybox DAF Junior</td><td>SmartID V3</td><td>Str. Gloria, nr. 5 307220<br>Giroc, Timis</td><td>4527</td><td>45.702876<br>21.238662</td><td>easybox DAF Junior</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>8</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4711" class="even"><td class="  report_expandable">easybox Calea Bogdanestilor</td><td>SmartID V3</td><td>Cal. Bogdanestilor, Nr. 141 300601<br>Timisoara, Timis</td><td>4509</td><td>45.755690<br>21.192680</td><td>easybox Calea Bogdanestilor</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>10</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4710" class="odd"><td class="  report_expandable">easybox Poli</td><td>SmartID V3</td><td>Str. Bisericii, Nr. 53 307375<br>Sanandrei, Timis</td><td>4508</td><td>45.853610<br>21.173120</td><td>easybox Poli</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>5</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4709" class="even"><td class="  report_expandable">easybox Pensiunea Ana Maria</td><td>Rovenma</td><td>Str. Nera, Nr. 26 307160<br>Dumbravita, Timis</td><td>4507</td><td>45.784210<br>21.243010</td><td>easybox Pensiunea Ana Maria</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>2</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4607" class="odd"><td class="  report_expandable">easybox Cocorilor</td><td>SmartID V3</td><td>intersectie Str. Albatrosului cu Str. Cocorilor 307201<br>Giarmata-VII, Timis</td><td>4440</td><td>45.807320<br>21.288080</td><td>easybox Cocorilor</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>8</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4594" class="even"><td class="  report_expandable">easybox Camelot</td><td>Modern Expo V2</td><td>Cal. Urseni, Nr. 57 300703<br>Timisoara, Timis</td><td>4427</td><td>45.724850<br>21.257890</td><td>easybox Camelot</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4578" class="odd"><td class="  report_expandable">easybox Green Splaiul Grivita</td><td>Modern Expo Green</td><td>Spl. Grivita, Nr. 1 300295<br>Timisoara, Timis</td><td>4420</td><td>45.760550<br>21.258430</td><td>easybox Splaiul Grivita</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>36</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4513" class="even"><td class="  report_expandable">easybox Livezile</td><td>SmartID V3</td><td>Intersectia Str. Prunului cu Str. Livezile 307220<br>Giroc, Timis</td><td>4410</td><td>45.695169<br>21.249781</td><td>easybox Livezile</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>10</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4512" class="odd"><td class="  report_expandable">easybox Club Sportiv Dyadora</td><td>SmartID V3</td><td>Str. Neptun, Nr. 31 307220<br>Giroc, Timis</td><td>4409</td><td>45.711604<br>21.240058</td><td>easybox Club Sportiv Dyadora</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>65</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4475" class="even"><td class="  report_expandable">easybox Bega Shopping Center Circumvalatiunii</td><td>Keba</td><td>Cal. Circumvalatiunii, Nr. 21 300335<br>Timisoara, Timis</td><td>4378</td><td>45.756930<br>21.217410</td><td>easybox Bega Shopping Center Circumvalatiunii</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>22</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4474" class="odd"><td class="  report_expandable">easybox Bega Shopping Center Buziasului</td><td>Keba</td><td>Cal. Buziasului, Nr. 11 307285<br>Timisoara, Timis</td><td>4377</td><td>45.732650<br>21.260770</td><td>easybox Bega Shopping Center Buziasului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>5</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4473" class="even"><td class="  report_expandable">easybox Silvana</td><td>SmartID V3</td><td>Str. Silvana, FN 307160<br>Dumbravita, Timis</td><td>4376</td><td>45.798342<br>21.249727</td><td>easybox Silvana</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4472" class="odd"><td class="  report_expandable">easybox Pensiunea Eli</td><td>SmartID V3</td><td>Str. Emanoil Gojdu, Nr. 2 305100<br>Buzias, Timis</td><td>4375</td><td>45.646810<br>21.608520</td><td>easybox Pensiunea Eli</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>7</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4393" class="even"><td class="  report_expandable">easybox Primaria Parta</td><td>SmartID V3</td><td>Str. Principala, nr. 282 307396<br>Parta, Timis</td><td>4324</td><td>45.627610<br>21.137130</td><td>easybox Primaria Parta</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>13</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4392" class="odd"><td class="  report_expandable">easybox Primaria Cenad</td><td>SmartID V3</td><td>Str. Principala, nr. 652 307095<br>Cenad, Timis</td><td>4323</td><td>46.137870<br>20.584410</td><td>easybox Primaria Cenad</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>9</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4391" class="even"><td class="  report_expandable">easybox Ismail</td><td>SmartID V3</td><td>str. Ismail, nr. 8 307200<br>Timisoara, Timis</td><td>4322</td><td>45.759940<br>21.276340</td><td>easybox Ismail</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>19</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4296" class="odd"><td class="  report_expandable">easybox Basmului</td><td>SmartID V3</td><td>Str. Basmului, Nr. 6 307285<br>Mosnita Noua, Timis</td><td>4252</td><td>45.717890<br>21.332510</td><td>easybox Basmului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>17</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4295" class="even"><td class="  report_expandable">easybox Bega</td><td>SmartID V3</td><td>Str. Bega, Nr. 58 307220<br>Giroc, Timis</td><td>4251</td><td>45.690910<br>21.235170</td><td>easybox Bega</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4294" class="odd"><td class="  report_expandable">easybox Margaretei</td><td>SmartID V3</td><td>Str. Margaretei 307220<br>Giroc, Timis</td><td>4250</td><td>45.718770<br>21.255490</td><td>easybox Margaretei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>8</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4293" class="even"><td class="  report_expandable">easybox Prutului 234</td><td>-</td><td>Intersectia Str. Prunului cu Str. Livezile 307220<br>Giroc, Timis</td><td>4249</td><td>45.695169<br>21.249781</td><td>easybox Prutului</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4292" class="odd"><td class="  report_expandable">easybox Fratii Buzesti</td><td>SmartID V3</td><td>Str. Fratii Buzesti 300016<br>Timisoara, Timis</td><td>4248</td><td>45.755750<br>21.209890</td><td>easybox Fratii Buzesti</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>17</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4291" class="even"><td class="  report_expandable">easybox Stuparilor</td><td>SmartID V3</td><td>str. Stuparilor, nr. 18 300261<br>Timisoara, Timis</td><td>4247</td><td>45.770309<br>21.244912</td><td>easybox Stuparilor</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4290" class="odd"><td class="  report_expandable">easybox Green Phoenix</td><td>Modern Expo Green</td><td>Str. Phoenix, Nr. 36 300254<br>Timisoara, Timis</td><td>4246</td><td>45.785610<br>21.231790</td><td>easybox Phoenix</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>1</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4289" class="even"><td class="  report_expandable">easybox Calea Martirilor 160</td><td>SmartID V3</td><td>Cal. Martirilor, Nr. 160 307221<br>Timisoara, Timis</td><td>4245</td><td>45.722440<br>21.236510</td><td>easybox Calea Martirilor 160</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>2</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4288" class="odd"><td class="  report_expandable">easybox Elisabeta Rizea</td><td>SmartID V3</td><td>Str. Elisabeta Rizea, Nr. 8 300368<br>Timisoara, Timis</td><td>4244</td><td>45.721250<br>21.238310</td><td>easybox Elisabeta Rizea</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>17</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4182" class="even"><td class="  report_expandable">easybox Hotel Francesca</td><td>SmartID V3</td><td>Str. Grigore T. Popa, Nr. 8 300291<br>Timisoara, Timis</td><td>4165</td><td>45.778940<br>21.226810</td><td>easybox Hotel Francesca</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>20</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4172" class="odd"><td class="  report_expandable">easybox Green Fitness Planet</td><td>Modern Expo Green</td><td>Str. Mures, Nr. 43 300772<br>Timisoara, Timis</td><td>4155</td><td>45.729760<br>21.220230</td><td>easybox Fitness Planet</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>26</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4147" class="even"><td class="  report_expandable">easybox Ciarda Rosie</td><td>SmartID V3</td><td>Str. Electronicii Colt Cu Int. Saturn 300692<br>Timisoara, Timis</td><td>4130</td><td>45.731940<br>21.260090</td><td>easybox Ciarda Rosie</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>23</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4115" class="odd"><td class="  report_expandable">easybox Hotel Aurora</td><td>Rovenma</td><td>Str. Lacului, Nr. 1 (Parcare Hotel) 300472<br>Timisoara, Timis</td><td>4102</td><td>45.735240<br>21.197580</td><td>easybox Hotel Aurora</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>11</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4114" class="even"><td class="  report_expandable">easybox Personal Broker</td><td>Rovenma</td><td>Str. Victor Babes, Nr. 17 300595<br>Timisoara, Timis</td><td>4101</td><td>45.744980<br>21.232960</td><td>easybox Personal Broker</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>12</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4113" class="odd"><td class="  report_expandable">easybox Patiseria Gentipan</td><td>Keba</td><td>Str. Banatul, Nr. 24 300473<br>Timisoara, Timis</td><td>4100</td><td>45.736960<br>21.197360</td><td>easybox Patiseria Gentipan</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>9</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="4000" class="even"><td class="  report_expandable">easybox Sanmihaiu Roman</td><td>ModernExpo</td><td>Zona Noua (Iesire Catre Dinias) 307382<br>Sanmihaiu Roman, Timis</td><td>4011</td><td>45.696540<br>21.076620</td><td>easybox Sanmihaiu Roman</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>3</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3999" class="odd"><td class="  report_expandable">easybox Calea Medves</td><td>Keba</td><td>Cal. Medves, Nr. 100 307285<br>Mosnita Noua, Timis</td><td>4010</td><td>45.707240<br>21.319510</td><td>easybox Calea Medves</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>11</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3982" class="even"><td class="  report_expandable">easybox Medves Market</td><td>Keba</td><td>Str. Mare, Nr. 190 307289<br>Urseni, Timis</td><td>3993</td><td>45.692820<br>21.309070</td><td>easybox Medves Market</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>20</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3980" class="odd"><td class="  report_expandable">easybox My Auchan Petrom Calea Sagului</td><td>SmartID V3</td><td>Cal. Sagului, Nr. 138-140 300516<br>Timisoara, Timis</td><td>3991</td><td>45.718101<br>21.196196</td><td>easybox My Auchan Petrom Calea Sagului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>7</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3979" class="even"><td class="  report_expandable">easybox My Auchan Petrom Miresei</td><td>SmartID V3</td><td>Str. Timis 300254<br>Timisoara, Timis</td><td>3990</td><td>45.767714<br>21.221934</td><td>easybox My Auchan Petrom Miresei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>25</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3978" class="odd"><td class="  report_expandable">easybox My Auchan Petrom Calea Aradului</td><td>SmartID V3</td><td>DN 69 Km 3 300291<br>Timisoara, Timis</td><td>3989</td><td>45.786083<br>21.217594</td><td>easybox My Auchan Petrom Calea Aradului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>9</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3973" class="even"><td class="  report_expandable">easybox MBK Home Test</td><td>-</td><td>Cal. Medves 307285<br>Mosnita Noua, Timis</td><td>3984</td><td>45.710660<br>21.321560</td><td>easybox MBK Home</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3956" class="odd"><td class="  report_expandable">easybox Sag Manastire</td><td>SmartID V2</td><td>Str. Xxvii, Nr. 1B 307395<br>Sag, Timis</td><td>3967</td><td>45.654020<br>21.191780</td><td>easybox Sag Manastire</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>16</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3943" class="even"><td class="  report_expandable">easybox Potcoava Norocoasa</td><td>Rovenma</td><td>Str. Principala, Nr. 193 307305<br>Ortisoara, Timis</td><td>3954</td><td>45.962410<br>21.198990</td><td>easybox Potcoava Norocoasa</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>4</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3918" class="odd"><td class="  report_expandable">easybox Recas</td><td>SmartID V2</td><td>Str. Recas, Nr. 51 307340<br>Recas, Timis</td><td>3938</td><td>45.798520<br>21.498730</td><td>easybox Recas</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>16</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3917" class="even"><td class="  report_expandable">easybox Peciu Nou</td><td>ModernExpo</td><td>Str. Principala, Nr. 194 307310<br>Peciu Nou, Timis</td><td>3937</td><td>45.606030<br>21.058650</td><td>easybox Peciu Nou</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>37</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3910" class="odd"><td class="  report_expandable">easybox Green Tristan Tzara</td><td>Modern Expo Green</td><td>Str. Tristan Tzara, Nr. 2 300292<br>Timisoara, Timis</td><td>3930</td><td>45.791130<br>21.223380</td><td>easybox Tristan Tzara</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>61</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3884" class="even"><td class="  report_expandable">easybox Kids Park</td><td>Rovenma</td><td>Str. Crisurilor, Nr. 19 307160<br>Dumbravita, Timis</td><td>3913</td><td>45.811520<br>21.241380</td><td>easybox Kids Park</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3883" class="odd"><td class="  report_expandable">easybox Black Red White</td><td>Rovenma</td><td>Str. Principala, Nr. 880 308285<br>Mosnita Noua, Timis</td><td>3912</td><td>45.723370<br>21.295960</td><td>easybox Black Red White</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>13</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3882" class="even"><td class="  report_expandable">easybox MBK Home</td><td>-</td><td>Cal. Medves 307285<br>Mosnita Noua, Timis</td><td>3911</td><td>45.710660<br>21.321560</td><td>easybox MBK Home</td><td>Nu suporta ramburs</td><td>Inactiv</td><td>0</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3881" class="odd"><td class="  report_expandable">easybox Teilor</td><td>ModernExpo</td><td>Str. Teilor Intersectie Carpenului 307201<br>Giarmata-VII, Timis</td><td>3910</td><td>45.801660<br>21.301080</td><td>easybox Teilor</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>4</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3880" class="even"><td class="  report_expandable">easybox Hadiji Dent</td><td>ModernExpo</td><td>Cal. Lugojului, Nr. 7 305300<br>Faget, Timis</td><td>3909</td><td>45.855710<br>22.176930</td><td>easybox Hadiji Dent</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>22</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3706" class="odd"><td class="  report_expandable">easybox Primaria Remetea Mare</td><td>Keba</td><td>Str. Principala, Nr. 112 307350<br>Remetea Mare, Timis</td><td>3769</td><td>45.779790<br>21.376130</td><td>easybox Primaria Remetea Mare</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>23</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3705" class="even"><td class="  report_expandable">easybox Imi Moni Oil Buzias</td><td>Keba</td><td>Str. Principala, Nr. 43 305100<br>Buzias, Timis</td><td>3768</td><td>45.648190<br>21.598250</td><td>easybox Imi Moni Oil Buzias</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>17</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3704" class="odd"><td class="  report_expandable">easybox Musicescu 159</td><td>ModernExpo</td><td>Str. Gavril Musicescu, Nr. 159 300777<br>Timisoara, Timis</td><td>3767</td><td>45.724990<br>21.246540</td><td>easybox Musicescu 159</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>44</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3631" class="even"><td class="  report_expandable">easybox HQLEVEL - Venus</td><td>Keba</td><td>Str. Venus, Nr. 7 300693<br>Timisoara, Timis</td><td>3694</td><td>45.731930<br>21.258020</td><td>easybox HQLEVEL -Venus</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>4</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3630" class="odd"><td class="  report_expandable">easybox Teleagului</td><td>SmartID V2</td><td>Str. Teleagului, Nr. 10 307160<br>Dumbravita, Timis</td><td>3693</td><td>45.796546<br>21.240150</td><td>easybox Teleagului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>6</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3627" class="even"><td class="  report_expandable">easybox Onibon Fashion Forward</td><td>Rovenma</td><td>Str. Mures, Nr. 118 B 300763<br>Timisoara, Timis</td><td>3690</td><td>45.728890<br>21.233930</td><td>easybox Onibon Fashion Forward</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>38</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3625" class="odd"><td class="  report_expandable">easybox Becicherecu Mic</td><td>Keba</td><td>Cal. Dudestilor, Nr. 11 307040<br>Becicherecu Mic, Timis</td><td>3688</td><td>45.835130<br>21.053080</td><td>easybox Becicherecu Mic</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>26</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3585" class="even"><td class="  report_expandable">easybox Pensiunea Andronic</td><td>ModernExpo</td><td>Str. Ion Slavici, Nr. 75 300523<br>Timisoara, Timis</td><td>3648</td><td>45.722510<br>21.173720</td><td>easybox Pensiunea Andronic</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>16</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3567" class="odd"><td class="  report_expandable">easybox Spalatorie Self Service Bodomot Carwash</td><td>Rovenma</td><td>Str. Damsescu, Nr. 34 305600<br>Sannicolau Mare, Timis</td><td>3630</td><td>46.081120<br>20.629860</td><td>easybox Spalatorie Self Service Bodomot Carwash</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>2</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3562" class="even"><td class="  report_expandable">easybox Magazin Brutarie Ardelean</td><td>Keba</td><td>Str. Primaverii, Nr. 5 305500<br>Lugoj, Timis</td><td>3625</td><td>45.691240<br>21.903860</td><td>easybox Magazin Brutarie Ardelean</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>18</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3561" class="odd"><td class="  report_expandable">easybox Cernei</td><td>Keba</td><td>Str. Cernei, Nr. 39 305500<br>Lugoj, Timis</td><td>3624</td><td>45.685210<br>21.895030</td><td>easybox Cernei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>17</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3560" class="even"><td class="  report_expandable">easybox Muzicii</td><td>Keba</td><td>Str. Muzicii, Nr. 23 307155<br>Dumbravita, Timis</td><td>3623</td><td>45.801960<br>21.214070</td><td>easybox Muzicii</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>37</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3535" class="odd"><td class="  report_expandable">easybox Fit Kids Club</td><td>Keba</td><td>Str. Piata Craiului, Nr. 22 307160<br>Dumbravita, Timis</td><td>3611</td><td>45.792710<br>21.249720</td><td>easybox Fit Kids Club</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>9</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3509" class="even"><td class="  report_expandable">easybox Moto Bike Shop</td><td>Rovenma</td><td>Cal. Buziasului, Nr. 17 300571<br>Timisoara, Timis</td><td>3585</td><td>45.729160<br>21.270410</td><td>easybox Moto Bike Calea Buziasului 17</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>14</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3508" class="odd"><td class="  report_expandable">easybox Bro Tm</td><td>Keba</td><td>Str. Principala, Nr. 62A 307285<br>Mosnita Noua, Timis</td><td>3584</td><td>45.718040<br>21.326740</td><td>easybox Bro TM</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>16</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3507" class="even"><td class="  report_expandable">easybox Green Calea Sagului 81</td><td>Modern Expo Green</td><td>Cal. Sagului, Nr. 81 300516<br>Timisoara, Timis</td><td>3583</td><td>45.724910<br>21.202660</td><td>easybox Calea Sagului 81</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>31</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3503" class="odd"><td class="  report_expandable">easybox Green Spalatorie Self Service Calea Buziasului</td><td>Modern Expo Green</td><td>Cal. Buziasului, Nr. 77 300714<br>Timisoara, Timis</td><td>3579</td><td>45.726450<br>21.280400</td><td>easybox Spalatorie Self Service Calea Buziasului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>5</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3502" class="even"><td class="  report_expandable">easybox Green Sabin Evutianu</td><td>Modern Expo Green</td><td>Str. Sabin Evutianu 300668<br>Timisoara, Timis</td><td>3578</td><td>45.776660<br>21.215570</td><td>easybox Sabin Evutianu</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>15</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3487" class="odd"><td class="  report_expandable">easybox Apostoli Petru si Pavel Nr 2</td><td>Keba</td><td>Str. Apostoli Petru Si Pavel, Nr. 2 300256<br>Timisoara, Timis</td><td>3563</td><td>45.776440<br>21.234470</td><td>easybox Apostoli Petru si Pavel Nr 2</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>35</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3416" class="even"><td class="  report_expandable">easybox Pischia</td><td>Keba</td><td>Str. Principala, Nr. 265 307325<br>Pischia, Timis</td><td>3523</td><td>45.902710<br>21.339840</td><td>easybox Pischia</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>7</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3414" class="odd"><td class="  report_expandable">easybox Utvin</td><td>Keba</td><td>Str. Principala, Nr. 179 307382<br>Utvin, Timis</td><td>3521</td><td>45.715570<br>21.128330</td><td>easybox Utvin</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>38</td><td class="  column-right">2</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3398" class="even"><td class="  report_expandable">easybox Aleea Gorunului</td><td>Keba</td><td>Al. Gorunului, Nr. 2 300146<br>Timisoara, Timis</td><td>3505</td><td>45.738180<br>21.206170</td><td>easybox AleeaGorunului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>28</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3397" class="odd"><td class="  report_expandable">easybox Apostoli Petru si Pavel</td><td>Keba</td><td>Str. Apostoli Petru Si Pavel, Nr. 29/C 300243<br>Timisoara, Timis</td><td>3504</td><td>45.774850<br>21.240460</td><td>easybox ApostoliPetrusiPavel</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>20</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3396" class="even"><td class="  report_expandable">easybox Planetei</td><td>Keba</td><td>Str. Planetei, Nr. 10 307220<br>Giroc, Timis</td><td>3503</td><td>45.707570<br>21.237290</td><td>easybox Planetei</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>18</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3395" class="odd"><td class="  report_expandable">easybox Dunarea</td><td>Keba</td><td>Str. Dunarea, Nr. 13 307220<br>Giroc, Timis</td><td>3502</td><td>45.696480<br>21.246410</td><td>easybox Dunarea</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>14</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3355" class="even"><td class="  report_expandable">easybox Splaiul Nistrului</td><td>Keba</td><td>Str. Splaiul Nistrului, Nr. 10 300093<br>Timisoara, Timis</td><td>3462</td><td>45.759845<br>21.248269</td><td>easybox SplaiulNistrului</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>29</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3354" class="odd"><td class="  report_expandable">easybox Simion Barnutiu 32</td><td>SmartID V2</td><td>Str. Simion Barnutiu, Nr. 32  300133<br>Timisoara, Timis</td><td>3461</td><td>45.763230<br>21.254170</td><td>easybox SimionBarnutiu32</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>14</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3353" class="even"><td class="  report_expandable">easybox Sofia</td><td>SmartID V2</td><td>Str. Sofia, Nr. 5A 307285<br>Mosnita Noua, Timis</td><td>3460</td><td>45.724613<br>21.294608</td><td>easybox Sofia</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>19</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3352" class="odd"><td class="  report_expandable">easybox Naturii</td><td>Keba</td><td>Str. Naturii, Nr. 2 307220<br>Giroc, Timis</td><td>3459</td><td>45.702874<br>21.232519</td><td>easybox Naturii</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>11</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr><tr id="3351" class="even"><td class="  report_expandable">easybox Plasma CarWash</td><td>Rovenma</td><td>Str. Bartok Bela, Nr. 5 307160<br>Dumbravita, Timis</td><td>3458</td><td>45.812411<br>21.262299</td><td>easybox PlasmaCarWash</td><td>Plata prin card</td><td>Activ(Vizibil client)</td><td>11</td><td class="  column-right">1</td><td>Functional</td><td>
+
+
+
+
+                                
+
+</td></tr></tbody>

@@ -1,0 +1,31 @@
+City of Mara 35
+Club Sportiv Dyadora 65
+Cluj 25
+Cocorilor 8
+Coffe Biograph 34
+Continental Romania 47
+Cosmetica Auto Mosnita Noua 34
+DAF Junior 8
+Dacilor 34
+Diana 0
+Dumbravita Office 2
+Dunarea 14
+Dunarea 173 0
+Egretei 23
+Electronicii 53
+Elisabeta Rizea 17
+Eliza 1 0
+Eneas 57 24
+Eroilor de la Tisa 19
+Eso Petrol Dumbravita 33
+Eso Petrol Giroc 96
+Eso Petrol Timisoara 44
+Fagetului Lugoj 24
+Farmacia Ella Farm 26
+Farmacia FARM MATAND 62
+Fit Kids Club 9
+Fratii Buzesti 17
+Freidorf 10
+GM-CAD Cimpina 20
+Galbenelelor 0
+sum=783

@@ -1,0 +1,31 @@
+Parang Timisoara 50
+Parcare Bradul 3 31
+Parcare Pensiunea Uno 54
+Patiseria Gentipan 9
+Peciu Nou 37
+Penny Constantin Prezan 43
+Penny Jimbolia 57
+Penny Lugoj 37
+Penny Sannicolau Mare 22
+Pensiunea Ana Maria 2
+Pensiunea Andronic 16
+Pensiunea Dariana 4
+Pensiunea Eli 7
+Pensiunea La Fayette 45
+Pensiunea Violeta 26
+Pensiunea Yasmine 26
+Personal Broker 12
+Petre Tutea 87 24
+Piata 700 0
+Piata Aurora 56
+Piata Badea Cartan 22
+Piata Dacia 86
+Piata Doina 98
+Piata Giroc 102
+Piata Lipovei 53
+Piata Soarelui 0
+Piata de Gros 43
+Pickup point Voglio Pizza 75
+Pischia 7
+Planetei 18
+sum=1062

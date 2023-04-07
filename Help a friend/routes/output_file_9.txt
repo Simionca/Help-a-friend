@@ -1,0 +1,38 @@
+Salia Residence 0
+Sanmihaiu Roman 3
+Silistra 12
+Silvana 6
+Simion Barnutiu 32 14
+Sion Farm 0
+Sladji Car Wash 27
+Snagov 24
+Socar Dumbravita 72
+Socar Timisoara 11
+Sofia 19
+Somes 29
+Spalatorie  BVP Wash &amp; Stay 16
+Spalatorie Mosnita Veche 43
+Spalatorie Self Service Bodomot Carwash 2
+Splaiul Nistrului 29
+Splash Car Wash Giroc 5
+Splash Wash Mosnita Noua 12
+Stuparilor 6
+Sud Plaza Timisoara 14
+Teilor 4
+Teleagului 6
+Textilistilor 15
+Thalia Sudului 89
+Timisoara (Showroom eMAG) 95
+Timisorii 86 50
+Toledo 4
+Torontalului 53 14
+Trandafirilor 107 13
+Trandafirilor 40 0
+Ulpia Traiana 0
+Utvin 38
+Valentin Rosada 40
+Virgil Birou 19
+Viviani Caffe 53
+Vulcanizare Roton Plus 30
+West Animal Ve 42
+sum=856

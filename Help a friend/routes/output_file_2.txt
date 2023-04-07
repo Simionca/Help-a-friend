@@ -1,0 +1,31 @@
+Bocsei 32
+Brancoveanu 0
+Brico depot Timisoara 0
+Bro Tm 16
+Bruxelles 34
+Bucova 18
+Bucovinei 92
+Bujorilor 24
+Bujorilor 28 15
+Busteni 24 43
+CEImobiliare Bini 17
+CIT Grup Calea Aradului 18
+Cactusului 11
+Calan 35
+Calea Becicherecului 25
+Calea Bogdanestilor 10
+Calea Martirilor 160 2
+Calea Medves 11
+Calea Urseni 112 82
+Camelo 6
+Caminul Cultural Carpinis 21
+Carpati Giroc 32
+Carrefour Bulbuca 77
+Carrefour Circumvalatiunii 63
+Cartierul Primaverii 41
+Casa Piticilor 25
+Casa de la Rosa 33
+Cebza 18
+Cernei 17
+Ciarda Rosie 23
+sum=841

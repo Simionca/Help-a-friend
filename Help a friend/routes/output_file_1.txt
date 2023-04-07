@@ -1,0 +1,31 @@
+700 Office 55
+Adora Fores 15
+Aleea Gorunului 28
+Apostoli Petru si Pavel 20
+Apostoli Petru si Pavel Nr 2 35
+Aral Dorobantilor 2
+Aral Torontalului 52
+Ardealului 20
+Asirom 39
+Auchan Timisoara Su 15
+Auner 2
+Aurel Cosma 80 13
+Aurel Cozma 14
+Autogara Drobeta Turism 29
+Banatul 52
+Barbu Iscovescu 50
+Baril Forte 22
+Baril Forte Sag 59
+Barzava 29
+Basmului 17
+Bdul Industriei 2A 6
+Becicherecu Mic 26
+Bega 6
+Bega Shopping Center Buziasului 5
+Bega Shopping Center Circumvalatiunii 22
+Beregsau Mare 20
+Berlin-Smarty Kinder Club 41
+Beta Shop 23
+Bistrei 6
+Black Red White 13
+sum=736

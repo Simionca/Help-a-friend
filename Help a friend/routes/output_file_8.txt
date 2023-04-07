@@ -1,0 +1,31 @@
+Plasma CarWash 11
+Poli 5
+Policlinica Darimedic Sinandrei 89
+Popa Sapca 0
+Potcoava Norocoasa 4
+Primaria Bile 12
+Primaria Cena 9
+Primaria Fibis 3
+Primaria Parta 13
+Primaria Remetea Mare 23
+Primaria Varias 0
+Primaverii 35
+Prodan Chim 26
+Prutului 234 0
+Quasar 24
+RP Express Calea Lugojului 14
+RP Express Romulus 27
+Ranetti 39
+Rebrisoreana 54
+Recas 16
+Rest Burgun 38
+Restaurant Petito 9
+River Residence 19
+Rivera 7
+Rompetrol Bulbuca 35
+Rompetrol Eroilor de la Tisa 70
+Rompetrol Timisoara (Lugojului) 21
+Rompetrol Timisoara Dunca 7
+SPA Auto Express 31
+Sag Manastire 16
+sum=657

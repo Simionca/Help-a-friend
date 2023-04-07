@@ -1,0 +1,31 @@
+Ion Roata 23
+Iryana Marke 51
+Ismail 19
+Iulius Mall Timisoara 33
+Izlaz 14
+Kaufland Bojinca 45
+Kaufland Calea Martirilor 48
+Kaufland Cetate 38
+Kaufland Chimistilor 16
+Kaufland Dumbravita 74
+Kaufland Kogalniceanu 61
+Kaufland Lugoj 28
+Kids Park 6
+LCO Rental 56
+LCO Rental Barnutiu 66
+La Taverna Giroc 67
+Labirin 9
+Lacului 42
+Lidia 40
+Livezile 10
+Lunei 18
+MB Concep 27
+MBK Home 0
+MBK Home Tes 0
+MOL Bulbuca 40
+MOL Miresei 33
+MOL Republicii Timisoara 35
+Magazin  Belle-Nicole (fost Top-Full) 62
+Magazin Brutarie Ardelean 18
+Magnoliei Mosnita Noua 73
+sum=1052

@@ -1,0 +1,31 @@
+Gheorgeh Adam 14 11
+Gheorghe Lazar 19 17
+Giroc 32
+Green Annes event Ballroom 28
+Green Calea Sagului 81 31
+Green Equilibrium After School 28
+Green Fitness Plane 26
+Green Ion Sarbu 12
+Green Kogalniceanu 12
+Green Phoenix 1
+Green Sabin Evutianu 15
+Green Scoala Giarmata 5
+Green Spalatorie Self Service Calea Buziasului 5
+Green Splaiul Grivita 36
+Green Tristan Tzara 61
+HQLEVEL - Venus 4
+HZH Car Wash Mosnita Noua 50
+Hadiji Den 22
+Hanover 25
+Hotel Arizona 21
+Hotel Aurora 11
+Hotel Boca Juniors 17
+Hotel Del Pack 9
+Hotel Exclusiv 65
+Hotel Francesca 20
+ISHO 87
+Imi Moni Oil 16
+Imi Moni Oil Buzias 17
+Infratirea 117 39
+Ion Ionescu de la Bra 17
+sum=740
